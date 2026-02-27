@@ -1,1 +1,1 @@
-alert("hello");
+let age=parseInt(prompt("enter age:"));
